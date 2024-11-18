@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build directories (for React or other build tools)
+build/
+dist/
+
+# Package lock files (optional)
+package-lock.json
+
+# IDE/editor files (if using VSCode, JetBrains, etc.)
+.vscode/
+.idea/
